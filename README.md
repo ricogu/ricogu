@@ -8,6 +8,5 @@ Senior Software Engineer at [**SAP**](https://github.com/SAP) in Munich — clou
 - 🐹 Writing more Go these days: deployment tooling, backend services, and CLI automation
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ricogu)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 📍 Munich · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
