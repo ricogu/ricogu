@@ -7,6 +7,6 @@ Senior Software Engineer at [**SAP**](https://github.com/SAP) in Munich — clou
 - 🤖 Deep into AI-assisted development — agentic coding workflows, MCP server integrations, and spec-driven development with OpenSpec
 - 🐹 Writing more Go these days: deployment tooling, backend services, and CLI automation
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ricogu&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ricogu&hide_border=true)](https://git.io/streak-stats)
 
 📍 Munich · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
